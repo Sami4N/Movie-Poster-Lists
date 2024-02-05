@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  padding: 2rem;
+  /* background: rgba(24, 24, 24, 0.941); */
+  /* color: white; */
+}
+.img{
+  width: 200px;
+  height: 300px;
+  margin: 10px;
+  transition: .5s;
+}
+
+.heading{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 50px;
+}
+.heading input{
+  width: 300px;
+  margin-left: -100px;
+}
